@@ -12,9 +12,6 @@
 #define SETTINGS 5
 // -----------------
 
-#define OUT_USB &out OUT_USB
-#define OUT_BT &out OUT_BT
-
 &sk {
 	// don't release mods on other mods presses
 	ignore-modifiers;
